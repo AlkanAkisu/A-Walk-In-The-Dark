@@ -1,0 +1,4 @@
+interface IMovement
+{
+  void Move();
+}
