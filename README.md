@@ -1,9 +1,9 @@
 # A Walk In The Dark
 
-## 🎮 What is A Walk In The Dark?
+## 🎮 What is "A Walk In The Dark"?
 <p>This game made for Global Game Jam 2021 with a theme <b>Lost and Found </b </p>
 <p>We made a horror themed game about a child who lost his teddy bear in the creepy forest and wants to find it so he can go to sleep</p>
-<p>As a player you should overcome overcome this creepy forest to find the child's teddy bear</p>
+<p>As a player you should overcome this creepy forest to find the child's teddy bear</p>
 <p>To Play The Game: <a href="https://alkanakisu.itch.io/a-walk-in-the-dark">itch.io page</a></p> 
 
 ## 👨‍💻👨‍🎨Who made this?
